@@ -13,3 +13,28 @@ Reference information can be found on:
 https://fallout.fandom.com/wiki/Fallout_76_plans
 https://fallout.fandom.com/wiki/Fallout_76_recipes
 https://github.com/TES5Edit/TES5Edit/releases/
+
+
+Plans and Recipes in this repository:
+[ ] B.E.T.A.
+[ ] Release
+[x] Wild Appalachia (found in old backup copy from 21/07/2019)
+[ ] Nuclear Winter
+[ ] Watelanders
+[ ] The Legendary Run
+[ ] One Wasteland for all
+[ ] Steel Dawn
+[ ] Locked & Loaded
+[x] Steel Reign (found in old backup copy from 29/08/2021)
+[ ] Fallout World
+[x] Night of the Moth
+[x] Invaders from Beyond
+[x] Test Your Metal
+[x] Expeditions : The Pitt
+[x] Nuka-World on Tour
+[x] Mutation Invasion
+[x] Once in a Blue Moon (A version is also present from the 'Fight For Freedom' patch)
+[x] Atlantic City : Boardwalk Paradise
+[x] Atlantic City : America's Playground
+[x] Skyline Valley
+[-] Milepost Zero (TBA)
