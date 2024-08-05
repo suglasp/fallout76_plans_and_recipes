@@ -20,7 +20,7 @@ Plans and Recipes in this repository:
 [ ] Release
 [x] Wild Appalachia (found in old backup copy from 21/07/2019)
 [ ] Nuclear Winter
-[ ] Watelanders
+[ ] Wastelanders
 [ ] The Legendary Run
 [ ] One Wasteland for all
 [ ] Steel Dawn
