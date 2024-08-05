@@ -35,6 +35,6 @@ Plans and Recipes in this repository:
 [x] Mutation Invasion
 [x] Once in a Blue Moon (A version is also present from the 'Fight For Freedom' patch)
 [x] Atlantic City : Boardwalk Paradise
-[x] Atlantic City : America's Playground
+[x] Atlantic City : America's Playground (This is the *Atlantic-City-AP*.csv file)
 [x] Skyline Valley
 [-] Milepost Zero (TBA)
