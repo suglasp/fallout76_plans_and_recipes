@@ -37,5 +37,5 @@ Plans and Recipes in this repository:
 [x] Atlantic City : Boardwalk Paradise
 [x] Atlantic City : America's Playground (This is the *Atlantic-City-AP*.csv file)
 [x] Skyline Valley
-[-] Milepost Zero (TBA)
+[ ] Milepost Zero
 [x] The Gleaming Depths
