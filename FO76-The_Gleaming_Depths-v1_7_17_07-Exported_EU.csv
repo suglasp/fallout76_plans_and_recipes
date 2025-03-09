@@ -633,6 +633,7 @@ Record;EDID;Full - Name
 4148012;zzzRecipe_Headwear_Fasnacht_Beret;Plan: Fasnacht Beret
 4148001;Recipe_Workshop_WallDecor_Misc_Fasnacht_BranchGarland_01;Plan: Fasnacht Branch Garland 01
 5923954;Recipe_Workshop_WallDecor_Misc_Fasnacht_BranchGarland_02;Plan: Fasnacht Branch Garland 02
+8044593;CUT_Recipe_Workshop_FloorDecor_FasnachtCommemorativeStein;Plan: Fasnacht Commemorative Stein
 4148006;Recipe_Workshop_FloorDecor_Rugs_Fasnacht_ConfettiPile_01;Plan: Fasnacht Confetti Pile 01
 5923953;Recipe_Workshop_FloorDecor_Rugs_Fasnacht_ConfettiPile_02;Plan: Fasnacht Confetti Pile 02
 4161439;CUT_Recipe_Workshop_FloorDecor_Misc_Fasnacht_Effigy;Plan: Fasnacht Effigy
@@ -688,6 +689,16 @@ Record;EDID;Full - Name
 6906443;Recipe_Workshop_FloaterTubes;Plan: Floater Tubes
 4023598;Recipe_Workshop_Container_WorkshopSafeFloor01;Plan: Floor Safe
 6794962;E09D_Recipe_Workshop_SafeFloor;Plan: Floor Safe
+8044598;Recipe_Workshop_WallDecor_FlowerBoxAshRose;Plan: Flower Box - Ash Rose
+8044601;Recipe_Workshop_WallDecor_FlowerBoxAster;Plan: Flower Box - Aster
+8044755;Recipe_Workshop_WallDecor_FlowerBoxMutatedFern;Plan: Flower Box - Mutated Fern
+8044761;Recipe_Workshop_WallDecor_FlowerBoxRhododendron;Plan: Flower Box - Rhododendron
+8044767;Recipe_Workshop_WallDecor_FlowerBoxSootFlower;Plan: Flower Box - Soot Flower
+8044776;Recipe_Workshop_WallDecor_FloweringBoxAshRose;Plan: Flowering Box - Ash Rose
+8044779;Recipe_Workshop_WallDecor_FloweringBoxAster;Plan: Flowering Box - Aster
+8044770;Recipe_Workshop_WallDecor_FloweringBoxMutatedFern;Plan: Flowering Box - Mutated Fern
+8044782;Recipe_Workshop_WallDecor_FloweringBoxRhododendron;Plan: Flowering Box - Rhododendron
+8044773;Recipe_Workshop_WallDecor_FloweringBoxSootFlower;Plan: Flowering Box - Soot Flower
 7729397;E07A_Recipe_workshop_FloorDecor_MothVFX;Plan: Fluttering Moths
 4023587;Recipe_Workshop_Container_FootLocker;Plan: Footlocker
 6428354;SCORE_Recipe_workshop_CAMP_Utility_FortuneTeller_GoldVendor;Plan: Fortune Teller Machine
@@ -887,6 +898,7 @@ Record;EDID;Full - Name
 7786285;Recipe_Workshop_FloorDecor_Fasnacht_Helvetian_FlowerDisplay;Plan: Helvetian Flower Display
 7528873;Recipe_Workshop_FloorDecor_HerdsmansBell_Basic;Plan: Herdsman's Bell - Basic
 7721806;Recipe_Workshop_FloorDecor_HerdsmansBell_Basic_RECOVERED;Plan: Herdsman's Bell - Basic
+8044758;CUT_Recipe_Workshop_FloorDecor_HerdsmansBell_Bigfoot;Plan: Herdsman's Bell - Bigfoot
 7785778;Recipe_Workshop_FloorDecor_HerdsmansBell_Fasnacht;Plan: Herdsman's Bell - Fasnacht
 7865056;Recipe_Workshop_FloorDecor_HerdsmansBell_Lincoln;Plan: Herdsman's Bell - Lincoln
 7529333;Recipe_Workshop_DisplayCase_HerdsmansBellRack_Basic;Plan: Herdsman's Bell Display Rack - Basic
@@ -2441,6 +2453,23 @@ Record;EDID;Full - Name
 6327020;SCORE_Recipe_workshop_CAMP_Ally_YasminChowdhury_GoldVendor;Plan: Yasmin Chowdhury
 4629424;zzz_Recipe_Backpack_Material_Yellow;Plan: Yellow Backpack Material
 7732234;Recipe_Invaders_AlienBlaster_Refined;Plan: Zenith Alien Blaster Paint
+8070219;PlayerTitle_Recipe_Suffix_Carnivore;Player Title: Carnivore
+8070212;PlayerTitle_Recipe_Suffix_CattleRustler;Player Title: Cattle Rustler
+8070224;PlayerTitle_Recipe_Suffix_Cultist;Player Title: Cultist
+8070211;PlayerTitle_Recipe_Prefix_Festive;Player Title: Festive
+8034009;PlayerTitle_Recipe_Suffix_Gardener;Player Title: Gardener
+8070215;PlayerTitle_Recipe_Prefix_Glowing;Player Title: Glowing
+8070214;PlayerTitle_Recipe_Suffix_Goblin;Player Title: Goblin
+8070222;PlayerTitle_Recipe_Suffix_HappyCamper;Player Title: Happy Camper
+8070225;PlayerTitle_Recipe_Suffix_Invader;Player Title: Invader
+8070221;PlayerTitle_Recipe_Suffix_Landlord;Player Title: Landlord
+8070223;PlayerTitle_Recipe_Prefix_Masked;Player Title: Masked
+8070213;PlayerTitle_Recipe_Prefix_Mutated;Player Title: Mutated
+8070217;PlayerTitle_Recipe_Suffix_Researcher;Player Title: Researcher
+8070216;PlayerTitle_Recipe_Suffix_Rumbler;Player Title: Rumbler
+8034008;PlayerTitle_Recipe_Prefix_Spooky;Player Title: Spooky
+8070220;PlayerTitle_Recipe_Suffix_Surveyor;Player Title: Surveyor
+8070218;PlayerTitle_Recipe_Suffix_Zookeeper;Player Title: Zookeeper
 4001088;Recipe_Serum_AdrenalReaction;Recipe: Adrenal Reaction Serum
 4027561;Recipe_Cooking_MirelurkQueenMeatTasty;Recipe: Aged Mirelurk Queen Steak
 4739131;recipe_DiseaseCure_Antibiotics;Recipe: Antibiotics
