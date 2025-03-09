@@ -26,7 +26,7 @@ Plans and Recipes in this repository:
 [ ] Steel Dawn
 [ ] Locked & Loaded
 [x] Steel Reign (found in old backup copy from 29/08/2021)
-[ ] Fallout World
+[ ] Fallout Worlds
 [x] Night of the Moth
 [x] Invaders from Beyond
 [x] Test Your Metal
@@ -38,4 +38,5 @@ Plans and Recipes in this repository:
 [x] Atlantic City : America's Playground (This is the *Atlantic-City-AP*.csv file)
 [x] Skyline Valley
 [ ] Milepost Zero
-[x] The Gleaming Depths
+[x] The Gleaming Depths (An older version and newer version that contains the 'Player: <...>' tags)
+[ ] Glow Of the Ghoul (TBA)
