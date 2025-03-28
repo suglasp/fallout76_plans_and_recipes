@@ -39,4 +39,5 @@ Plans and Recipes in this repository:
 [x] Skyline Valley
 [ ] Milepost Zero
 [x] The Gleaming Depths (An older version and newer version that contains the 'Player: <...>' tags)
-[ ] Glow Of the Ghoul (TBA)
+[x] The Ghoul Whitin
+[ ] ...
