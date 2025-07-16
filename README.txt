@@ -40,4 +40,5 @@ Plans and Recipes in this repository:
 [ ] Milepost Zero
 [x] The Gleaming Depths (An older version and newer version that contains the 'Player: <...>' tags)
 [x] The Ghoul Whitin
+[x] Gone Fission
 [ ] ...
