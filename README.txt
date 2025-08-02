@@ -16,7 +16,7 @@ https://github.com/TES5Edit/TES5Edit/releases/
 https://fallout.fandom.com/wiki/Fallout_76_patches
 
 
-Plans and Recipes in this repository:
+Plans and Recipes in this repository (version numbers are official patch version numbers):
 [ ] B.E.T.A.  (v1.0.0.6)
 [ ] Release (v1.0.1.14)
 [x] Wild Appalachia (v1.1.0.8 - found in old backup copy from 21/07/2019)
@@ -43,4 +43,5 @@ Plans and Recipes in this repository:
 [x] The Ghoul Whitin (v1.7.18.22)
 [x] Gone Fission (v1.7.20.12)
 [ ] ...
+
 
