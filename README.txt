@@ -42,6 +42,8 @@ Plans and Recipes in this repository (version numbers are official patch version
 [x] The Gleaming Depths (v1.7.16.13 - An older version and newer version that contains the 'Player: <...>' tags)
 [x] The Ghoul Whitin (v1.7.18.22)
 [x] Gone Fission (v1.7.20.12)
+[x] CAMP Revamp (v1.7.21.41)
 [ ] ...
+
 
 
