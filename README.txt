@@ -43,7 +43,6 @@ Plans and Recipes in this repository (version numbers are official patch version
 [x] The Ghoul Whitin (v1.7.18.22)
 [x] Gone Fission (v1.7.20.12)
 [x] CAMP Revamp (v1.7.21.41)
+[x] Burning Springs (v1.7.22.12)
 [ ] ...
-
-
 
