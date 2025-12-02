@@ -20,7 +20,7 @@ https://github.com/TES5Edit/TES5Edit/releases/ \
 https://fallout.fandom.com/wiki/Fallout_76_patches
 
 
-<ins>Plans and Recipes in this repository (version numbers are official patch version numbers):</ins>
+<ins>Plans and Recipes in this repository (version numbers are official patch version numbers):</ins> \
 [ ] B.E.T.A.  (v1.0.0.6)\
 [ ] Release (v1.0.1.14)\
 [x] Wild Appalachia (v1.1.0.8 - found in old backup copy from 21/07/2019)\
@@ -49,4 +49,5 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 [x] CAMP Revamp (v1.7.21.41)\
 [x] Burning Springs (v1.7.22.12)\
 [ ] ...
+
 
