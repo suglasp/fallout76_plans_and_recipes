@@ -1,22 +1,26 @@
 
 ref : https://github.com/suglasp/fallout76_plans_and_recipes/
 
+** Fallout 76 Plans & Recipes (and Player tags) overview **
+
+<img src="https://images.ctfassets.net/rporu91m20dc/7iXZ8tYrblIgiJE4AlpxX7/8344a268c0cf19b3ac42bad4fb561df9/FO_expansions_d.jpg" width="800" height="363">
+
 Extraction in csv file format, of some of the Fallout 76 releases Plans and Recipes available in game.
 When a new game season arrives, I will update this repo.
 
-Notice:
+<ins>Notice:</ins>
 You will notice some plans or recipes, where the internal naming scheme begins with 'zzz_<plan_name>' or 'zzz_<recipe_name>'.
 Other less seen variants are 'NOTINUSE_<name>', or 'CUT_<name>'.
 Those are disabled plans in the game, and aren't available to claim.
 
-Reference information can be found on:
+<ins>Reference information can be found on:</ins>
 https://fallout.fandom.com/wiki/Fallout_76_plans
 https://fallout.fandom.com/wiki/Fallout_76_recipes
 https://github.com/TES5Edit/TES5Edit/releases/
 https://fallout.fandom.com/wiki/Fallout_76_patches
 
 
-Plans and Recipes in this repository (version numbers are official patch version numbers):
+<ins>Plans and Recipes in this repository (version numbers are official patch version numbers):</ins>
 [ ] B.E.T.A.  (v1.0.0.6)
 [ ] Release (v1.0.1.14)
 [x] Wild Appalachia (v1.1.0.8 - found in old backup copy from 21/07/2019)
@@ -45,4 +49,9 @@ Plans and Recipes in this repository (version numbers are official patch version
 [x] CAMP Revamp (v1.7.21.41)
 [x] Burning Springs (v1.7.22.12)
 [ ] ...
+
+
+
+<img src="https://images.ctfassets.net/rporu91m20dc/1cPDU4rI8lRNrcUjc8LVTa/c08785c75f9a0aec89973deb82708477/F76_BurningSprings_3840x2160.jpg" width="800" height="450">
+
 
