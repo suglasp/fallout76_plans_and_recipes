@@ -14,9 +14,9 @@ Other less seen variants are 'NOTINUSE_<name>', or 'CUT_<name>'.\
 Those are disabled plans in the game, and aren't available to claim.
 
 <ins>Reference information can be found on:</ins>
-https://fallout.fandom.com/wiki/Fallout_76_plans\
-https://fallout.fandom.com/wiki/Fallout_76_recipes\
-https://github.com/TES5Edit/TES5Edit/releases/\
+https://fallout.fandom.com/wiki/Fallout_76_plans \
+https://fallout.fandom.com/wiki/Fallout_76_recipes \
+https://github.com/TES5Edit/TES5Edit/releases/ \
 https://fallout.fandom.com/wiki/Fallout_76_patches
 
 
@@ -48,8 +48,9 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 [x] Gone Fission (v1.7.20.12)\
 [x] CAMP Revamp (v1.7.21.41)\
 [x] Burning Springs (v1.7.22.12)\
-[ ] ...
+[ ] ...\
 
 
 <img src="https://images.ctfassets.net/rporu91m20dc/1cPDU4rI8lRNrcUjc8LVTa/c08785c75f9a0aec89973deb82708477/F76_BurningSprings_3840x2160.jpg" width="800" height="450">
+
 
