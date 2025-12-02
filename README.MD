@@ -8,12 +8,12 @@ ref : https://github.com/suglasp/fallout76_plans_and_recipes/
 Extraction in csv file format, of some of the Fallout 76 releases Plans and Recipes available in game.\
 When a new game season arrives, I will update this repo.
 
-<ins>Notice:</ins>
+<ins>Notice:</ins> \
 You will notice some plans or recipes, where the internal naming scheme begins with 'zzz_<plan_name>' or 'zzz_<recipe_name>'.\
 Other less seen variants are 'NOTINUSE_<name>', or 'CUT_<name>'.\
 Those are disabled plans in the game, and aren't available to claim.
 
-<ins>Reference information can be found on:</ins>
+<ins>Reference information can be found on:</ins> \
 https://fallout.fandom.com/wiki/Fallout_76_plans \
 https://fallout.fandom.com/wiki/Fallout_76_recipes \
 https://github.com/TES5Edit/TES5Edit/releases/ \
@@ -52,5 +52,6 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 
 
 <img src="https://images.ctfassets.net/rporu91m20dc/1cPDU4rI8lRNrcUjc8LVTa/c08785c75f9a0aec89973deb82708477/F76_BurningSprings_3840x2160.jpg" width="800" height="450">
+
 
 
