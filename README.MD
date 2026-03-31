@@ -48,6 +48,7 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 [x] Gone Fission (v1.7.20.12)\
 [x] CAMP Revamp (v1.7.21.41)\
 [x] Burning Springs (v1.7.22.12)\
+[x] The Backwoods (v1.7.23.39)\
 [ ] ...
 
 
