@@ -49,6 +49,6 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 [x] CAMP Revamp (v1.7.21.41)\
 [x] Burning Springs (v1.7.22.12)\
 [x] The Backwoods (v1.7.23.39)\
+[x] The Backwoods - patch (v1.7.24.14)\
+[x] Infestations (v1.7.25.11)\
 [ ] ...
-
-
