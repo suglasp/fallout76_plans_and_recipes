@@ -40,10 +40,11 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 [x] Mutation Invasion (v1.7.3.15)\
 [x] Once in a Blue Moon (v1.7.4.21 - A version is also present from the 'Fight For Freedom' patch)\
 [x] Atlantic City : Boardwalk Paradise (v1.7.8.8)\
-[x] Atlantic City : America's Playground (v1.7.10.12 - This is the *Atlantic-City-AP*.csv file)\
+[x] Atlantic City : America's Playground (v1.7.10.12) - This is the *Atlantic-City-AP*.csv file\
 [x] Skyline Valley (v1.7.12.10)\
 [x] Milepost Zero (v1.7.14.15) - reconstructed from the Skyline Valley v1.7.13.12 and v1.7.15.12 exports\
-[x] The Gleaming Depths (v1.7.16.13) - An older version and newer version that contains the 'Player: <...>' tags\
+[x] The Gleaming Depths (v1.7.16.13) - Original release of The Gleaming Depths\
+[x] The Gleaming Depths (v1.7.17.07) - Later patch for The Gleamning Depths that added the 'Player: <...>' tags\
 [x] The Ghoul Whitin (v1.7.18.22)\
 [x] Gone Fission (v1.7.20.12)\
 [x] CAMP Revamp (v1.7.21.41)\
