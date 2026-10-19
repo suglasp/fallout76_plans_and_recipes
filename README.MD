@@ -23,30 +23,30 @@ https://fallout.fandom.com/wiki/Fallout_76_patches
 <ins>Plans and Recipes in this repository (version numbers are official patch version numbers):</ins> \
 [x] B.E.T.A.  (v1.0.0.6) - reconstructed, identical to Release (no known plan changes)\
 [x] Release (v1.0.1.14) - reconstructed from the Wild Appalachia export and online Fandom plan tables (launch content only)\
-[x] Wild Appalachia (v1.1.0.8) - found in old backup copy from 21/07/2019\
-[x] Nuclear Winter (v1.2.0.15) - reconstructed from the Wild Appalachia export (minus the Meat Week plans)\
+[x] Wild Appalachia (v1.2.1.8) - found in old backup copy from 21/07/2019\
+[x] Nuclear Winter (v1.2.0.15) - reconstructed from the Wild Appalachia export (minus the 12 Meat Week block records, incl. the 10mm Submachine Gun Drum Magazine). The Nuclear Winter game mode rewards were no plan records yet, they were added as '_NW' plans after the mode went EOL on 08/09/2021\
 [x] Wastelanders (v1.3.0.23) - reconstructed from the Wild Appalachia and Steel Reign exports\
 [x] The Legendary Run (v1.3.2.10) - reconstructed from the Wild Appalachia and Steel Reign exports\
 [x] One Wasteland for all (v1.4.0.20) - reconstructed from the Wild Appalachia and Steel Reign exports\
 [x] Steel Dawn (v1.5.0.19) - reconstructed from the Wild Appalachia and Steel Reign exports\
 [x] Locked & Loaded (v1.5.2.32) - reconstructed from the Wild Appalachia and Steel Reign exports\
-[x] Steel Reign (v1.5.4.15) - found in old backup copy from 29/08/2021)\
+[x] Steel Reign (v1.5.5.8) - found in old backup copy from 29/08/2021\
 [x] Fallout Worlds (v1.6.0.17) - reconstructed from the Steel Reign and Night of the Moth exports\
 [x] Night of the Moth (v1.6.2.16)\
 [x] Invaders from Beyond (v1.6.4.13)\
 [x] Test Your Metal (v1.6.4.60)\
-[x] Expeditions : The Pitt (v1.7.0.23)\
+[x] Expeditions : The Pitt (v1.7.1.19)\
 [x] Nuka-World on Tour (v1.7.2.9)\
 [x] Mutation Invasion (v1.7.3.15)\
-[x] Once in a Blue Moon (v1.7.4.21 - A version is also present from the 'Fight For Freedom' patch)\
+[x] Once in a Blue Moon (v1.7.4.18) - A version is also present from the 'Fight For Freedom' patch (v1.7.6.6)\
 [x] Atlantic City : Boardwalk Paradise (v1.7.8.8)\
 [x] Atlantic City : America's Playground (v1.7.10.12) - This is the *Atlantic-City-AP*.csv file\
-[x] Skyline Valley (v1.7.12.10)\
+[x] Skyline Valley (v1.7.13.12)\
 [x] Milepost Zero (v1.7.14.15) - reconstructed from the Skyline Valley v1.7.13.12 and v1.7.15.12 exports\
-[x] The Gleaming Depths (v1.7.16.13) - Original release of The Gleaming Depths\
-[x] The Gleaming Depths (v1.7.17.07) - Later patch for The Gleamning Depths that added the 'Player: <...>' tags\
+[x] The Gleaming Depths (v1.7.16.11) - Original release of The Gleaming Depths\
+[x] The Gleaming Depths (v1.7.17.07) - Later patch for The Gleaming Depths that added the 'Player: <...>' tags\
 [x] The Ghoul Whitin (v1.7.18.22)\
-[x] Gone Fission (v1.7.20.12)\
+[x] Gone Fission (v1.7.20.10)\
 [x] CAMP Revamp (v1.7.21.41)\
 [x] Burning Springs (v1.7.22.12)\
 [x] The Backwoods (v1.7.23.39)\
